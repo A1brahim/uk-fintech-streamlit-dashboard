@@ -1,0 +1,1 @@
+Streamlit dashboard for UK-listed fintech companies, pulling financial KPIs via yfinance and visualising them interactively.
